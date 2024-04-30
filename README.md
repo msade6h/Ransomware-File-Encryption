@@ -1,3 +1,4 @@
+![_54112cbf-c455-444d-ba94-cf03bed286ec](https://github.com/msade6h/Ransomware-File-Encryption/assets/94873023/01f95a64-632a-470d-9754-906a36d69d09)
 **README (English)**
 
 # Ransomware File Encryption
